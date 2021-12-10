@@ -1,0 +1,71 @@
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Policlinic(.Net Core).exe
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Policlinic(.Net Core).deps.json
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Policlinic(.Net Core).runtimeconfig.json
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Policlinic(.Net Core).runtimeconfig.dev.json
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Policlinic(.Net Core).dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Policlinic(.Net Core).pdb
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\obj\Debug\netcoreapp3.1\Policlinic(.Net Core).csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\obj\Debug\netcoreapp3.1\Policlinic(.Net Core).AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\obj\Debug\netcoreapp3.1\Policlinic(.Net Core).AssemblyInfo.cs
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\obj\Debug\netcoreapp3.1\Policlinic(.Net Core).dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\obj\Debug\netcoreapp3.1\Policlinic(.Net Core).pdb
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\obj\Debug\netcoreapp3.1\Policlinic(.Net Core).genruntimeconfig.cache
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\obj\Debug\netcoreapp3.1\Policlinic(.Net Core).csproj.CopyComplete
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Алексей\source\repos\Policlinic(.Net Core)\obj\Debug\netcoreapp3.1\Policlinic(.Net Core).csproj.CoreCompileInputs.cache
